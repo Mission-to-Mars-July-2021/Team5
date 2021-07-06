@@ -1,7 +1,7 @@
 # TeamName
 
 TinkerCad Circuit basic design URL is
-https://www.tinkercad.com
+https://www.tinkercad.com/things/chQOSF2KB5J-team5/editel?sharecode=aB14LrE83Sa13Q1zUxmbpiPuNNx1tWDlARwmk0BneL8
 
 ## Team Values
 What are your team values?
@@ -23,7 +23,7 @@ Replace with your name and item.
 
 ## Day 3 Retrospective
 
-##Day 4 Retrospective
+## Day 4 Retrospective
 
 ## Final Retrospective
 
