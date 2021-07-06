@@ -4,8 +4,10 @@ TinkerCad Circuit basic design URL is
 https://www.tinkercad.com
 
 ## Team Values
+What are your team values?
 
 ## Scrum Git
+Replace with your name and item. 
 
 ## Day 1 Retrospective
 
